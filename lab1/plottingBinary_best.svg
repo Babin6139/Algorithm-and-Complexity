@@ -1,0 +1,95 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(72, 364)">
+<g>
+<g>
+<path d="M48,-0 L48,-0 L96,-0 L144,-0 L192,-0 L240,-0 L288,-0 L336,-0 L384,-0 L432,-0.034 L480,-0" fill="none" stroke="green" stroke-linejoin="round" stroke-width="2"/>
+</g>
+<g>
+<circle cx="48" cy="-0" fill="black" r="5"/>
+<circle cx="96" cy="-0" fill="black" r="5"/>
+<circle cx="144" cy="-0" fill="black" r="5"/>
+<circle cx="192" cy="-0" fill="black" r="5"/>
+<circle cx="240" cy="-0" fill="black" r="5"/>
+<circle cx="288" cy="-0" fill="black" r="5"/>
+<circle cx="336" cy="-0" fill="black" r="5"/>
+<circle cx="384" cy="-0" fill="black" r="5"/>
+<circle cx="432" cy="-0.034" fill="black" r="5"/>
+<circle cx="480" cy="-0" fill="black" r="5"/>
+</g>
+</g>
+<g transform="translate(380, -340)">
+<text font-size="12" text-anchor="start" x="0" y="0">
+Best case
+</text>
+<line stroke="green" stroke-width="2" x1="-10" x2="-3" y1="-4" y2="-4"/>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="96" x2="96" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="192" x2="192" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="288" x2="288" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="384" x2="384" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="480" x2="480" y1="0" y2="10"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="480" y1="0" y2="0"/>
+<g>
+<text font-size="12" text-anchor="middle" x="0" y="20">
+0
+</text>
+<text font-size="12" text-anchor="middle" x="96" y="20">
+20000
+</text>
+<text font-size="12" text-anchor="middle" x="192" y="20">
+40000
+</text>
+<text font-size="12" text-anchor="middle" x="288" y="20">
+60000
+</text>
+<text font-size="12" text-anchor="middle" x="384" y="20">
+80000
+</text>
+<text font-size="12" text-anchor="middle" x="480" y="20">
+100000
+</text>
+</g>
+<text font-size="12" text-anchor="middle" x="240" y="30">
+Input-Size
+</text>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-0" y2="-0"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-68" y2="-68"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-136" y2="-136"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-204" y2="-204"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-272" y2="-272"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-340" y2="-340"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="-340"/>
+<g>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-0">
+0
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-68">
+2000
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-136">
+4000
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-204">
+6000
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-272">
+8000
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-340">
+10000
+</text>
+</g>
+<text font-size="12" text-anchor="middle" transform="rotate(-90 -60 -170)" x="-60" y="-182">
+Execution-Time (microsecond)
+</text>
+</g>
+</g>
+</svg>
