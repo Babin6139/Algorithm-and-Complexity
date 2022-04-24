@@ -93,7 +93,7 @@ pub fn merge<T: PartialOrd + Copy>(unsorted_data: &mut [T], p: usize, q: usize, 
             unsorted_data[k] = L1[i];
             i = i + 1;
         } else {
-            if L1[i] < R1[j] {
+            if L1[i] <= R1[j] {
                 unsorted_data[k] = L1[i];
                 i = i + 1;
             } else {
